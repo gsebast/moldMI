@@ -1,0 +1,15 @@
+.idea/
+**/.cache/**/
+**/artifacts/**/
+
+**/_keys/**/
+**/_certs/**/
+
+*.7z
+*.box
+*.iso
+*.iso.lock
+*.ova
+*.ovf
+*.vmdk
+*.bak
