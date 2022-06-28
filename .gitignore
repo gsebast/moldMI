@@ -1,8 +1,12 @@
 .idea/
+**/.cache/**/
 **/artifacts/**/
 
 **/_keys/**/
 **/_certs/**/
+
+**/_scripts/extras/**/
+**/_scripts/custom/**/
 
 *.7z
 *.box
