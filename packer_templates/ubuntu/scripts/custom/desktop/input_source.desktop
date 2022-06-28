@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Sets the desktop input source choices
+Exec=/sbin/input_source.sh
+Icon=system-run
+X-GNOME-Autostart-enabled=true
